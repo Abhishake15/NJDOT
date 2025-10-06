@@ -46,7 +46,7 @@ export default function Page() {
       <header className="main-header">
         <div className="container">
           <div className="header-content">
-            <img src="/njdot-logo.jpg" alt="New Jersey Department of Transportation Logo" className="njdot-logo" />
+            <img src="/njdot-logo.png" alt="New Jersey Department of Transportation Logo" className="njdot-logo" />
             <h1 className="site-title">Department of Transportation</h1>
           </div>
         </div>
